@@ -1,0 +1,17 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+New skills I have learned are how I should indent to make the code easier to read for others and how to use the MDN resource. It's very organized and easy to use.
+
+The easy part is doing the research (as of now..)
+
+I think the difficult part is knowing what to lookup and figuring out what is the answer. For instance, horizontal rule was mentioned but when I looked that up on MDN, <hr> was not the first thing that popped up. Instead, CSS information were shown first. So then I Googled it and then <hr> showed up. I didn't realize that it was towards the 3rd or 4th page of MDN did <hr> showed up.
+
+So far, I learned to keep trying and not to give up, and also tried to use the forum and see if others have the same problems. 
