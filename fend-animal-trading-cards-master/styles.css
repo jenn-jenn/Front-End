@@ -1,0 +1,49 @@
+/* add your CSS here */
+.animal_img {
+	width: 315px;
+	display: block;
+	margin: auto;
+	padding-bottom: 15px;*/
+
+}
+
+.border{
+	border: 1px solid;
+	box-shadow: 5px 3px 10px gray;
+	padding: 10px;
+	width: 400px;
+	background-color: #D5D5D5;
+}
+
+.caption{
+	font-family: "Times New Roman";
+	font-size: 16px;
+}
+
+.facts{
+	list-style-type: none;
+	margin: auto;
+	font-size: 16px;
+	padding-left: 0px
+}
+
+.fonts{
+	font-family: "Century Gothic", sans-serif;
+}
+
+h3{
+	text-align: center;
+}
+
+.inner_border{
+	border: 1px dashed;
+	padding: 10px;
+	width: 290px;
+	display: block;
+	margin: 20px 450px 20px 45px;
+	background-color: #F6CE95;
+}
+
+span {
+	font-weight: bold;
+}
